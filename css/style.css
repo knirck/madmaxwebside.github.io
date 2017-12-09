@@ -7,3 +7,8 @@
 .jumbotron {
   background-color: pink;
 }
+
+.img-max-width {
+  width:100%;
+  height: auto;
+}
