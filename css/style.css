@@ -1,11 +1,12 @@
 .sticky-nav {
+  background-color: limegreen;
   position: sticky;
   top: 0;
   z-index: 999;
 }
 
 .jumbotron {
-  background-color: pink;
+  background-color: limegreen;
 }
 
 .img-max-width {
