@@ -6,15 +6,34 @@
 }
 
 .jumbotron {
-  background-color: limegreen;
+  /*background-color: limegreen;*/
+  background-color: #f4a231ff;
   padding:10px 0 20px 0;
 }
 
 .img-max-width {
   width:100%;
+  max-width: 20em;
   height: auto;
 }
 
 .navbar-inverse .navbar-nav > li > a {
   color : white;
+}
+/*
+a.navbar-brand:link {
+  text-shadow: 0 0 2px red;
+}
+
+a.navbar-brand:hover {
+  text-shadow: 0 0 2px white;
+}*/
+
+h5 {
+  font-size: 1.3em;
+  color: #777;
+}
+
+.col-lg-4, .col-lg-2 {
+  padding-left: 2em;
 }
